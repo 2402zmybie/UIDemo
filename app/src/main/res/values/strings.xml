@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UIDemo</string>
+    <string name="textview">Display</string>
+    <string name="button1">左</string>
+    <string name="button2">右</string>
+    <string name="switch1">开关</string>
+    <string name="button">确认</string>
+    <string name="name">请输入水平进度条刻度</string>
+    <string name="radiobutton1">Android</string>
+    <string name="radiobutton2">SunApple</string>
+    <string name="icon">icon</string>
+    <string name="checkbox1">遇见1</string>
+    <string name="checkbox2">遇见2</string>
+    <string name="checkbox3">遇见3</string>
+
+</resources>
